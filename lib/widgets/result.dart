@@ -1,7 +1,7 @@
 
 
 
-import 'package:exam/screens/form.dart';
+import 'package:exam/screens/enter_data.dart';
 import 'package:flutter/material.dart';
 
 class Result extends StatelessWidget {
